@@ -18,8 +18,8 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: "About Me"}
   - {file: "README.md", title: "Research"}
-  - {url: "/CV_202501.pdf", title: "CV", icon: "CV"}
-
+  - {url: "/CV_202501.pdf", title: "CV", icon: "file-pdf"}
+  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:alessandro.guasti@esade.edu"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/alessandro-guasti-62a009ab/?originalSubdomain=uk"}

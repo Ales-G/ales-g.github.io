@@ -3,6 +3,8 @@ layout: page
 title: "Short Bio"
 ---
 
+![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+
 Hello!
 
 My name is Alessandro and I am an Assistant Professor in the Department of Society, Politics and Sustainability at the ESADE Business School. 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Short Bio"
+title: "About Me"
 ---
 
 <img src="https://github.com/user-attachments/assets/e4532b0d-a1d4-4f26-b5e7-017c072a2432" alt="Alessandro Guasti" style="width:250px; border-radius:200px; float:left; margin-right:20px; margin-bottom:10px;">

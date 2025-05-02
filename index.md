@@ -3,7 +3,8 @@ layout: page
 title: "Short Bio"
 ---
 
-<img src="https://github.com/user-attachments/assets/e4532b0d-a1d4-4f26-b5e7-017c072a2432" alt="Alessandro Guasti" style="width:160px; border-radius:8px; margin-bottom: 1rem;">
+<img src="https://github.com/user-attachments/assets/e4532b0d-a1d4-4f26-b5e7-017c072a2432" alt="Alessandro Guasti" style="width:200px; border-radius:8px; margin-bottom: 1rem;">
+
 Hello!
 
 My name is Alessandro and I am an Assistant Professor in the Department of Society, Politics and Sustainability at the ESADE Business School. 

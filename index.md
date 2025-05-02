@@ -3,7 +3,7 @@ layout: page
 title: "Short Bio"
 ---
 
-![Swiss Alps](https://user-images.githubusercontent.com/4943215/55412536-edbba180-5567-11e9-9c70-6d33bca3f8ed.jpg)
+![6407-1020](https://github.com/user-attachments/assets/e4532b0d-a1d4-4f26-b5e7-017c072a2432)
 
 Hello!
 

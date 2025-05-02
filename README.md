@@ -1,12 +1,12 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Research"
+permalink: "/research/"
 layout: page
 ---
 
-## Installation
+## Papers
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Arena, M., Hussein, H., Guasti, A., & Hussein, H. (2023). *Can Conditional Cash Transfers reduce Vulnerability to Climate Change?* *Climate Policy*, *23*(4), 462–476. https://doi.org/10.1080/14693062.2023.2183174 [link](https://www.tandfonline.com/doi/full/10.1080/14693062.2023.2183174)
 
 ## Features
 

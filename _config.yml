@@ -23,6 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:alessandro.guasti@esade.edu"}
   - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/alessandro-guasti-62a009ab/?originalSubdomain=uk"}
+  - {title: Google Scholar, icon: graduation-cap, url: "https://scholar.google.com/citations?user=jkbjIRAAAAAJ&hl=it&oi=ao"}
   
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

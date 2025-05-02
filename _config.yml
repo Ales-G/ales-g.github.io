@@ -21,10 +21,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "CV_202501.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:ales.guasti@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:alessandro.guasti@esade.edu"}
   - {title: Github, icon: github, url: "https://github.com/Ales-G"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
-
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/alessandro-guasti-62a009ab/?originalSubdomain=uk"}
+  
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/

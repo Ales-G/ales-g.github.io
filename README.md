@@ -6,9 +6,9 @@ layout: page
 
 ## Papers
 
-Arena, M., Hussein, H., Guasti, A., & Hussein, H. (2023). *Can Conditional Cash Transfers reduce Vulnerability to Climate Change?* *Climate Policy*, *23*(4), 462–476. https://doi.org/10.1080/14693062.2023.2183174. [link](https://www.tandfonline.com/doi/full/10.1080/14693062.2023.2183174)
+Arena, M., Hussein, H., Guasti, A., & Hussein, H. (2023). *Can Conditional Cash Transfers reduce Vulnerability to Climate Change?* *Climate Policy*, *23*(4), 462–476. https://doi.org/10.1080/14693062.2023.2183174. ([link](https://www.tandfonline.com/doi/full/10.1080/14693062.2023.2183174))
 
-Guasti, A., & Koenig-Archibugi, M. (2022). *Has global trade competition really led to a race to the bottom in labor standards?* *International Studies Quarterly, 66*(4), 1–10. https://doi.org/10.1093/isq/sqac061. [link](https://academic.oup.com/isq/article/66/4/sqac061/6700068)
+Guasti, A., & Koenig-Archibugi, M. (2022). *Has global trade competition really led to a race to the bottom in labor standards?* *International Studies Quarterly, 66*(4), 1–10. https://doi.org/10.1093/isq/sqac061. ([link](https://academic.oup.com/isq/article/66/4/sqac061/6700068))
 
 ## Under Review
 

@@ -22,6 +22,6 @@ Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https:/
 
 Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Distelhorst, G.](https://www.gregdistelhorst.com/) *Exporting, regulatory institutions, and labor conditions: Evidence from garment industry workers.* Working paper.
 
-[Amengual, M.](https://www.mattamengual.net/), [Distelhorst, G.](https://www.gregdistelhorst.com/), & Guasti, A. *What workers want in global supply chains* Working paper.
+[Amengual, M.](https://www.mattamengual.net/), [Distelhorst, G.](https://www.gregdistelhorst.com/), & Guasti, A. *What Workers Want in Global Supply Chains*. Working paper.
 
 Guasti, A., [Amengual, M.](https://www.mattamengual.net/), [Rustler, A.](https://www.sbs.ox.ac.uk/about-us/people/alexander-rustler), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), *Under (indirect) pressure: Cascading substantive change to non-targeted firms.* Working paper.

@@ -4,7 +4,7 @@ permalink: "/teaching/"
 layout: page
 ---
 
-## Selected Courses and Lectures Taught
+## Selected Courses and Lectures
 
 ### Esade  
 - **Global Political Economy** – Esade Business School, *Fall 2024*

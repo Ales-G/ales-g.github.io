@@ -1,6 +1,6 @@
 title: "Alessandro Guasti"
 author: "Alessandro Guasti"
-description: "Esade Business School"
+description: " " # This is what appears under each page of my website
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"

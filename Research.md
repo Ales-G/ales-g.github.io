@@ -12,13 +12,15 @@ Guasti, A., & [Koenig-Archibugi, M.](https://mathiaskoenigarchibugi.eu/) (2022).
 
 ## Under Review
 
-Guasti, A., *Do Preferential Trade Agreements with Labor Clauses Displace Labor Abuses? The Unintended Consequences of Global Governance on Labor Standards*, Under review at *Review of International Political Economy*.
+Guasti, A., *Do Preferential Trade Agreements with Labor Clauses Displace Labor Abuses? The Unintended Consequences of Global Governance on Labor Standards*, Under review.
 
-Guasti, A., [Wagner, P.](https://www.polver.uni-konstanz.de/en/arbeitsgruppe-fuer-international-politics-global-inequality/team/postdoctoral-researchers/patrick-wagner/), & Pham, P., *Does the importer's country matter? Unpacking the "Shanghai Effect" from the perspective of Brazilian managers.* Under review at *World Develpment*.
+Guasti, A., [Wagner, P.](https://www.polver.uni-konstanz.de/en/arbeitsgruppe-fuer-international-politics-global-inequality/team/postdoctoral-researchers/patrick-wagner/), & Pham, P., *Does the importer's country matter? Unpacking the "Shanghai Effect" from the perspective of Brazilian managers.* Under review.
 
-Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), *Rethinking labor standards compliance training in global value chains: Information-processing barriers to ethical conduct.* Under review at *Journal of Business Ethics*.
+Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), *Rethinking labor standards compliance training in global value chains: Information-processing barriers to ethical conduct.* Under review.
 
-## Working papers
+[Amengual, M.](https://www.mattamengual.net/), Guasti, A., *Compliance*, *Encyclopedia of Global Value Chains*. Under review.
+
+## Working Papers
 
 Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Distelhorst, G.](https://www.gregdistelhorst.com/) *Exporting, regulatory institutions, and labor conditions: Evidence from garment industry workers.* Working paper.
 

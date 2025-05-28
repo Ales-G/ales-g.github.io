@@ -12,18 +12,18 @@ Guasti, A., & [Koenig-Archibugi, M.](https://mathiaskoenigarchibugi.eu/) (2022).
 
 ## Under Review
 
-Guasti, A., "Do Preferential Trade Agreements with Labor Clauses Displace Labor Abuses? The Unintended Consequences of Global Governance on Labor Standards", Under review.
+Guasti, A., "Do Preferential Trade Agreements with Labor Clauses Displace Labor Abuses? The Unintended Consequences of Global Governance on Labor Standards".
 
-Guasti, A., [Wagner, P.](https://www.polver.uni-konstanz.de/en/arbeitsgruppe-fuer-international-politics-global-inequality/team/postdoctoral-researchers/patrick-wagner/), & Pham, P., "Does the importer's country matter? Unpacking the 'Shanghai Effect' from the perspective of Brazilian managers", Under review.
+Guasti, A., [Wagner, P.](https://www.polver.uni-konstanz.de/en/arbeitsgruppe-fuer-international-politics-global-inequality/team/postdoctoral-researchers/patrick-wagner/), & Pham, P., "Does the importer's country matter? Unpacking the 'Shanghai Effect' from the perspective of Brazilian managers".
 
-Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Rethinking labor standards compliance training in global value chains: Information-processing barriers to ethical conduct", Under review.
+Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Rethinking labor standards compliance training in global value chains: Information-processing barriers to ethical conduct".
 
-[Amengual, M.](https://www.mattamengual.net/), Guasti, A., "Compliance", *Encyclopedia of Global Value Chains*. Under review.
+[Amengual, M.](https://www.mattamengual.net/), Guasti, A., "Compliance", *Encyclopedia of Global Value Chains*.
 
 ## Working Papers
 
-Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Distelhorst, G.](https://www.gregdistelhorst.com/) "Exporting, regulatory institutions, and labor conditions: Evidence from garment industry workers", Working paper.
+Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Distelhorst, G.](https://www.gregdistelhorst.com/) "Exporting, regulatory institutions, and labor conditions: Evidence from garment industry workers", *working paper*.
 
-[Amengual, M.](https://www.mattamengual.net/), [Distelhorst, G.](https://www.gregdistelhorst.com/), & Guasti, A., "What Workers Want in Global Supply Chains", Working paper.
+[Amengual, M.](https://www.mattamengual.net/), [Distelhorst, G.](https://www.gregdistelhorst.com/), & Guasti, A., "What Workers Want in Global Supply Chains", *working paper*.
 
-Guasti, A., [Amengual, M.](https://www.mattamengual.net/), [Rustler, A.](https://www.sbs.ox.ac.uk/about-us/people/alexander-rustler), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Under (indirect) pressure: Cascading substantive change to non-targeted firms", Working paper.
+Guasti, A., [Amengual, M.](https://www.mattamengual.net/), [Rustler, A.](https://www.sbs.ox.ac.uk/about-us/people/alexander-rustler), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Under (indirect) pressure: Cascading substantive change to non-targeted firms", *working paper*.

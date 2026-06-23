@@ -6,7 +6,7 @@ layout: page
 
 ## Published Articles
 
-Guasti, A. (2026), "Do Preferential Trade Agreements with Labor Clauses Displace Labor Abuses? The Unintended Consequences of Global Governance on Labor Standards". *Review of International Political Economy, (Forthcoming)* doi:10.1080/09692290.2026.2693756
+Guasti, A. (2026), "Do Preferential Trade Agreements with Labor Clauses Displace Labor Abuses? The Unintended Consequences of Global Governance on Labor Standards". *Review of International Political Economy, (Forthcoming)*. doi:10.1080/09692290.2026.2693756
 
 Arena, M., Guasti, A., & [Hussein, H.](https://www.politics.ox.ac.uk/person/hussam-hussein) (2023). "Can Conditional Cash Transfers reduce Vulnerability to Climate Change?", *Climate Policy*, *23*(4), 462–476. https://doi.org/10.1080/14693062.2023.2183174. ([link](https://www.tandfonline.com/doi/full/10.1080/14693062.2023.2183174))
 

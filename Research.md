@@ -18,7 +18,7 @@ Guasti, A., & [Koenig-Archibugi, M.](https://mathiaskoenigarchibugi.eu/) (2022).
 
 Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Corporate Social Irresponsibility in Global Value Chains:  Overcoming Supplier Information Barriers Through Training".
 
-Guasti, A., [Wagner, P.](https://www.polver.uni-konstanz.de/en/arbeitsgruppe-fuer-international-politics-global-inequality/team/postdoctoral-researchers/patrick-wagner/), & Pham, P., "Does the importer's country matter? Unpacking the 'Shanghai Effect' from the perspective of Brazilian managers".
+Guasti, A., Wagner, P., & Pham, P., "Does the importer's country matter? Unpacking the 'Shanghai Effect' from the perspective of Brazilian managers".
 
 [Amengual, M.](https://www.mattamengual.net/), Guasti, A., "Compliance", *Encyclopedia of Global Value Chains*.
 

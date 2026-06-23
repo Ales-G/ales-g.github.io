@@ -16,9 +16,9 @@ Guasti, A., & [Koenig-Archibugi, M.](https://mathiaskoenigarchibugi.eu/) (2022).
 
 [Amengual, M.](https://www.mattamengual.net/), [Distelhorst, G.](https://www.gregdistelhorst.com/), & Guasti, A., ["What Jobs Do Workers Want? Worker Preferences in Global Value Chains"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5462136).
 
-Guasti, A., [Wagner, P.](https://www.polver.uni-konstanz.de/en/arbeitsgruppe-fuer-international-politics-global-inequality/team/postdoctoral-researchers/patrick-wagner/), & Pham, P., "Does the importer's country matter? Unpacking the 'Shanghai Effect' from the perspective of Brazilian managers".
+Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Corporate Social Irresponsibility in Global Value Chains:  Overcoming Supplier Information Barriers Through Training".
 
-Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Rethinking labor standards compliance training in global value chains: Information-processing barriers to ethical conduct".
+Guasti, A., [Wagner, P.](https://www.polver.uni-konstanz.de/en/arbeitsgruppe-fuer-international-politics-global-inequality/team/postdoctoral-researchers/patrick-wagner/), & Pham, P., "Does the importer's country matter? Unpacking the 'Shanghai Effect' from the perspective of Brazilian managers".
 
 [Amengual, M.](https://www.mattamengual.net/), Guasti, A., "Compliance", *Encyclopedia of Global Value Chains*.
 

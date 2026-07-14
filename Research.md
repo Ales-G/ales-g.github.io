@@ -26,6 +26,6 @@ Guasti, A., Wagner, P., & Pham, P., "Does the importer's country matter? Unpacki
 
 Guasti, A., [Amengual, M.](https://www.mattamengual.net/), & [Distelhorst, G.](https://www.gregdistelhorst.com/), "Exporting, regulatory institutions, and labor conditions: Evidence from garment industry workers".
 
-Guasti, A., [Amengual, M.](https://www.mattamengual.net/), [Rustler, A.](https://www.sbs.ox.ac.uk/about-us/people/alexander-rustler), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Under (indirect) pressure: Cascading substantive change to non-targeted firms". (AOM 2026 finalist for Best Paper Award in IM division of Corporate Social Responsibility and Sustainability)
+Guasti, A., [Amengual, M.](https://www.mattamengual.net/), [Rustler, A.](https://www.sbs.ox.ac.uk/about-us/people/alexander-rustler), & [Raess, D.](https://www.esei.ulaval.ca/notre-ecole/repertoire/damian-raess), "Under (indirect) pressure: Cascading substantive change to non-targeted firms". (AOM 2026 finalist for Best Paper Award in IM division of Corporate Social Responsibility and Sustainability).
 
-[Gadhok, I.](https://www.sbs.ox.ac.uk/about-us/people/ishrat-gadhok), [Amengual, M.](https://www.mattamengual.net/), Guasti, A., "Social impact initiatives and means-ends decoupling in global supply chains: experimental evidence from India"
+[Gadhok, I.](https://www.sbs.ox.ac.uk/about-us/people/ishrat-gadhok), [Amengual, M.](https://www.mattamengual.net/), Guasti, A., "Social impact initiatives and means-ends decoupling in global supply chains: experimental evidence from India".
